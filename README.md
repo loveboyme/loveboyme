@@ -112,14 +112,6 @@
 <h2>📊 GitHub 统计 / GitHub Stats</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=loveboyme&show_icons=true&locale=zh" alt="Obsidian GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=loveboyme&langs_count=8&locale=zh&layout=compact" alt="Obsidian Top Langs" />
-</p>
-
-<p align="center">
   <img src="https://streak-stats.demolab.com/?user=loveboyme&locale=zh&theme=dark&hide_border=true" alt="Obsidian Streak" />
 </p>
 
