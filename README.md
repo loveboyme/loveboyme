@@ -4,8 +4,6 @@
   </a>
 
   <h1>你好！我是 Obsidian / Hello, I'm Obsidian</h1>
-  <p><b>软件工程师 (Software Engineer) | AI 算法应用 (AI Algorithm Application) | 效率工具开发者 (Efficiency Tool Developer)</b></p>
-  <p><b>致力于运用先进技术解决复杂问题，优化系统效率与用户体验 / Driven by a passion for leveraging advanced technologies to solve complex problems, optimize system efficiency, and enhance user experience.</b></p>
 </div>
 
 <hr style="border: none; border-top: 1px solid #ddd;">
@@ -13,8 +11,6 @@
 <h2>🚀 关于我 / About Me</h2>
 
 <p>欢迎来到我的 GitHub 主页。 我是一名专注于软件工程实践的工程师，在人工智能算法的应用以及高效实用工具的开发领域拥有丰富经验。/ Welcome to my GitHub profile. I am a software engineer with a strong focus on software engineering practices and extensive experience in the application of artificial intelligence algorithms and the development of efficient, practical tools.</p>
-
-<p>我致力于运用前沿技术应对复杂挑战，提升系统性能指标，并为终端用户提供卓越且具价值的解决方案。/ I am dedicated to employing cutting-edge technologies to address complex challenges, improve system performance metrics, and deliver exceptional and valuable solutions to end-users.</p>
 
 **我目前正在关注 / Current Focus:**
 
@@ -25,43 +21,9 @@
 **我的技术兴趣 / Technical Interests:**
 
 * 分布式系统架构设计与实现 (Distributed system architecture design and implementation)
-* 人工智能驱动的软件工程实践 (AI-driven software engineering practices)
-* 自动化脚本及效率提升工具的构建 (Building automation scripts and efficiency-enhancing tools)
 * 开源技术生态及协同开发模式 (Open-source technology ecosystem and collaborative development models)
 
 <hr style="border: none; border-top: 1px solid #ddd;">
-
-<h2>🛠️ 技术栈 / Tech Stack</h2>
-
-**编程语言 / Programming Languages:**
-
-<p>
-  <img src="https://img.shields.io/badge/-Java-orange?style=flat-square&logo=openjdk&logoColor=white" alt="Java">
-  <img src="https://img.shields.io/badge/-Python-blue?style=flat-square&logo=python&logoColor=white" alt="Python">
-</p>
-
-**后端开发 / Back-end Development:**
-
-<p>
-  <img src="https://img.shields.io/badge/-Spigot-6C4F3D?style=flat-square&logo=spigot&logoColor=white" alt="Spigot">
-  <img src="https://img.shields.io/badge/-Bukkit-6C4F3D?style=flat-square&logo=bukkit&logoColor=white" alt="Bukkit">
-</p>
-
-**人工智能 / Artificial Intelligence:**
-
-<p>
-  <img src="https://img.shields.io/badge/-AI/ML-brightgreen?style=flat-square&logo=artificial-intelligence&logoColor=white" alt="AI/ML">
-  <img src="https://img.shields.io/badge/-Transformers-ffca28?style=flat-square&logo=huggingface&logoColor=black" alt="Transformers">
-  <img src="https://img.shields.io/badge/-PyTorch-ee4c2c?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch">
-  <img src="https://img.shields.io/badge/-TensorFlow-ff6f00?style=flat-square&logo=tensorflow&logoColor=white" alt="TensorFlow">
-</p>
-
-**实用工具 / Utility Tools:**
-
-<p>
-  <img src="https://img.shields.io/badge/-Steam-171A21?style=flat-square&logo=steam&logoColor=white" alt="Steam">
-  <img src="https://img.shields.io/badge/-PyQt-0075B2?style=flat-square&logo=PyQt&logoColor=white" alt="PyQt">
-</p>
 
 <hr style="border: none; border-top: 1px solid #ddd;">
 
